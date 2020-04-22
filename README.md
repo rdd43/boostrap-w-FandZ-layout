@@ -1,6 +1,8 @@
 # Repository Description
 These are a series of projects to help you learng SASS(SCSS), BrowserSync, GULP, GitHub Pages, and web templates 
 with partial html files.  When you complete this project, you will be able to build your portfolios website.
+#Screenshot With BrowserSync
+![Screenshot For BS](src/img/scForbs.jpg)
 ## Assignments
 * [Assignment 1 Here](BootStrapBrowserSyncGulp-Homework.pdf)
 * [Assignment 2 Here](BootstrapIntroduction.pdf)
